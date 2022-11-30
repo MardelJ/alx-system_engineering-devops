@@ -1,1 +1,2 @@
-#!/bin/bash \n readlink -f 
+#!/bin/bash
+readlink -f 
